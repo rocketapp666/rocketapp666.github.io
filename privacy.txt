@@ -1,3 +1,4 @@
 Rocket app only collect the Android id (SID) to identify the device, this id can be reset by root your device/reset device to factory.
 Rocket app does not collect other personal information, such as personal name, address, phone, etc.
 Rocket app can run without anyother android permission except network, which is required by the network proxy.
+We won't share any data to any 3rd part entity.
