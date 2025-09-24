@@ -1,3 +1,5 @@
+小火箭加速器（Little Rocket VPN）简易官方网站
+
 How to get:
 
 [Google Play](https://play.google.com/store/apps/details?id=rocket.service.super)
@@ -7,4 +9,5 @@ APK Download
 
 
 Only support Android and no other platform versions current.
+
 目前仅支持安卓系统，没有其他平台版本。
