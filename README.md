@@ -5,7 +5,7 @@ How to get:
 [Google Play 商店](https://play.google.com/store/apps/details?id=rocket.service.super)
 
 APK Download | 安装包下载 ：
-[V5.1.6](https://github.com/rocketapp666/rocketapp666.github.io/releases/download/v5.1.6/rkt-5.1.6.apk)
+[V5.2.0](https://github.com/rocketapp666/rocketapp666.github.io/releases/download/v5.2.0/rocket-5.2.0.apk)
 
 
 老版本:
