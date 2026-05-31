@@ -1,6 +1,4 @@
-小火箭加速器（Little Rocket VPN）简易官方网站
-
-APK Download | 安装包下载 ：
+Google Play 版本仅支持在Google Play更新。
 
 全新版本官网：[超级小火箭](https://xiao-huo-jian.web.app/)
 
