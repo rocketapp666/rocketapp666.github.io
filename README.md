@@ -1,18 +1,8 @@
 小火箭加速器（Little Rocket VPN）简易官方网站
 
-How to get:
-
-[Google Play 商店](https://play.google.com/store/apps/details?id=rocket.service.super)
-
 APK Download | 安装包下载 ：
-[V5.2.0](https://github.com/rocketapp666/rocketapp666.github.io/releases/download/v5.2.0/rocket-5.2.0.apk)
 
-
-老版本:
-
-[V5.1.5](https://github.com/rocketapp666/rocketapp666.github.io/releases/download/v5.1.5/rocket-5.1.5.apk)
-
-[v5.1.3](https://github.com/rocketapp666/rocketapp666.github.io/releases/download/v5.1.3/rocket-5.1.3.apk)
+全新版本官网：[超级小火箭](https://xiao-huo-jian.web.app/)
 
 Only support Android and no other platform versions current.
 
