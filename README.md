@@ -36,7 +36,7 @@
       seconds--;
       if (seconds <= 0) {
         clearInterval(timer);
-        window.location.href = "https://abc.com";
+        window.location.href = "https://xiao-huo-jian.web.app/";
       } else {
         el.textContent = seconds;
       }
