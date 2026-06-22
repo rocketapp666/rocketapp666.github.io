@@ -28,7 +28,7 @@
   </style>
 </head>
 <body>
-  <div class="message">正在前往新主页... <span class="count" id="count">3</span></div>
+  <div class="message">即将前往新主页... <span class="count" id="count">3</span> </div>
   <script>
     var seconds = 3;
     var el = document.getElementById("count");
